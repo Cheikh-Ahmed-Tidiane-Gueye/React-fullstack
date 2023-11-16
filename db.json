@@ -1,0 +1,108 @@
+{
+  "utilisateurs": [
+    {
+      "nomUtilisateur": "Cheikh Ahmed Tidiane Gueye",
+      "emailUtilisateur": "cheikhahmedtidiane219@gmail.com",
+      "motDePasse": "Cheikhgueye@99",
+      "motDePasseConfirmation": "Cheikhgueye@99",
+      "id": 1
+    },
+    {
+      "nomUtilisateur": "Fatoumata Bintou Gueye",
+      "emailUtilisateur": "faballa1@live.fr",
+      "motDePasse": "Cheikhgueye@99",
+      "motDePasseConfirmation": "Cheikhgueye@99",
+      "id": 2
+    },
+    {
+      "nomUtilisateur": "Oumar Gueye",
+      "emailUtilisateur": "Oumargueye@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 3
+    }
+  ],
+  "publications": [
+    {
+      "textePublication": "The G.O.A.T of Football",
+      "imagePublication": "https://img.freepik.com/photos-premium/midshotcelshadingstyle13centeredimageultra0v1_979262-6041.jpg?w=740",
+      "idUtilisateur": 1,
+      "datePublication": "2023-11-16T09:57:03.278Z",
+      "likePublication": 0,
+      "auteur": "Cheikh Ahmed Tidiane Gueye",
+      "id": 1
+    },
+    {
+      "textePublication": "Le Dîner De Thanksgiving",
+      "imagePublication": "https://img.freepik.com/photos-gratuite/dinde-rotie-pour-diner-thanksgiving-table-bois-ai-generative_123827-24255.jpg?w=740&t=st=1700128202~exp=1700128802~hmac=62eff1dee482840f5916f4ce190f9c1546c303b205664093f1a3d839bd5ed75e",
+      "idUtilisateur": 1,
+      "datePublication": "2023-11-16T10:22:39.564Z",
+      "likePublication": 0,
+      "auteur": "Cheikh Ahmed Tidiane Gueye",
+      "id": 2
+    },
+    {
+      "textePublication": "Système Html Pour Le Concept De Site Web",
+      "imagePublication": "https://img.freepik.com/photos-gratuite/systeme-html-pour-concept-site-web_23-2150376770.jpg?w=740&t=st=1700128253~exp=1700128853~hmac=08cd5faf7bd59940532f955f735f6b3740c5dff8b4217d053968f9bc04a74353",
+      "idUtilisateur": 1,
+      "datePublication": "2023-11-16T10:23:24.614Z",
+      "likePublication": 0,
+      "auteur": "Cheikh Ahmed Tidiane Gueye",
+      "id": 3
+    },
+    {
+      "textePublication": "I am happy",
+      "imagePublication": "https://img.freepik.com/photos-gratuite/smiley-homme-heureux-copie-espace_23-2148467233.jpg?w=740&t=st=1700128315~exp=1700128915~hmac=203b9875a3625d076d45d493b10e6a178ed242fdc9a2e8fa3549b01e9f6eee2d",
+      "idUtilisateur": 1,
+      "datePublication": "2023-11-16T10:24:11.694Z",
+      "likePublication": 0,
+      "auteur": "Cheikh Ahmed Tidiane Gueye",
+      "id": 4
+    },
+    {
+      "textePublication": "Ready to humble",
+      "imagePublication": "https://img.freepik.com/psd-gratuit/modele-banniere-athletes-boxeur_23-2148393269.jpg?w=826&t=st=1700130256~exp=1700130856~hmac=8b367fc569a78836691c2f36c0475649d0e8000ad175876debba996522eb66ae",
+      "idUtilisateur": 1,
+      "datePublication": "2023-11-16T10:24:50.070Z",
+      "likePublication": 0,
+      "auteur": "Cheikh Ahmed Tidiane Gueye",
+      "id": 5
+    },
+    {
+      "textePublication": "Work Hard #webDevloppement",
+      "imagePublication": "https://img.freepik.com/photos-premium/developpeur-logiciels-noir-joyeux-examinant-code-ecrit-par-collegues_236854-46010.jpg?w=740",
+      "idUtilisateur": 1,
+      "datePublication": "2023-11-16T10:25:27.604Z",
+      "likePublication": 0,
+      "auteur": "Cheikh Ahmed Tidiane Gueye",
+      "id": 6
+    },
+    {
+      "textePublication": "Commerce électronique",
+      "imagePublication": "https://img.freepik.com/photos-premium/commerce-electronique_553012-58878.jpg?w=740",
+      "idUtilisateur": 1,
+      "datePublication": "2023-11-16T10:29:13.772Z",
+      "likePublication": 0,
+      "auteur": "Cheikh Ahmed Tidiane Gueye",
+      "id": 7
+    },
+    {
+      "textePublication": "Chambre avec vue sur la mer et le soleil",
+      "imagePublication": "https://img.freepik.com/photos-premium/chambre-vue-mer-soleil_900958-9402.jpg?w=826",
+      "idUtilisateur": 1,
+      "datePublication": "2023-11-16T10:44:27.015Z",
+      "likePublication": 0,
+      "auteur": "Cheikh Ahmed Tidiane Gueye",
+      "id": 8
+    },
+    {
+      "textePublication": "Bonjour je suis nouveau et j'aime cette plateforme",
+      "imagePublication": "https://img.freepik.com/vecteurs-libre/achats_24908-54102.jpg?w=740&t=st=1700145492~exp=1700146092~hmac=86b4e87a70fac8d84986d427604dfa593a361f7229c454944fa3342177b0859a",
+      "idUtilisateur": 3,
+      "datePublication": "2023-11-16T14:38:26.569Z",
+      "likePublication": 0,
+      "auteur": "Oumar Gueye",
+      "id": 9
+    }
+  ]
+}
